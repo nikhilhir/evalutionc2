@@ -1,0 +1,28 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "name":"new house",
+            "ownerName":"jack",
+            "address":"chowk",
+            "areaCode":"123",
+            "rent":10000
+        },
+        {
+            "id":2,
+            "name":"old house",
+            "ownerName":"clerk",
+            "address":"chowk",
+            "areaCode":"123",
+            "rent":70000
+        },
+        {
+            "id":3,
+            "name":"villa house",
+            "ownerName":"diana",
+            "address":"chowk",
+            "areaCode":"123",
+            "rent":50000
+        }
+    ]
+}
